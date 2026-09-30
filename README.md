@@ -1,6 +1,8 @@
 # Pirate-Evolution
 
-"Pirate Evolution!" Is a game made by Zynga Inc. in 2021. It follows the player as a pirate stranded on a beach after being known as a legendary pirate with nothing to their name. They now go on a quest to regain their status. The game has Since been removed from the app store and google play. The only way to play it now is downloading it via an apk website. (version 0.4.0). 
+"Pirate Evolution!" Is a game made by Zynga Inc. in 2021. It follows the player as a pirate stranded on a beach after being known as a legendary pirate with nothing to their name. They now go on a quest to regain their status. The game has Since been removed from the app store and google play. The only way to play it now is downloading it via an apk website. (version 0.4.0).
+(Working version: https://pirate-evolution.en.uptodown.com/android)
+(Please note this will only work if on an android device or using bluestacks)
 
 All archived info:
 
