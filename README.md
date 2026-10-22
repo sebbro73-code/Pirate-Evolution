@@ -4,6 +4,102 @@
 (Working version: https://pirate-evolution.en.uptodown.com/android)
 (Please note this will only work if on an android device or using bluestacks)
 
+Intro dialogue:
+''You were once a great adventurer, uncovering mysteries and long-lost artifacts...''
+''Then a mysterious fleet ambushed you, imprisoned your crew, stole your treasure, and nearly destroyed your ship.''
+''Somehow you managed to escape, determined to become the greatest pirate that has ever lived and seek your revenge...''
+(Intro ends, start of tutorial.)
+Molly: Phew, Captain we escaped but the ship is in sad shape. Let's fix it!
+Guide: Drag and match 2 wood for a better version
+Guide: Match 2 of the same wood again
+Guide: Match the same for even better wood
+Guide: Tap to see what is required to rebuild our ship
+Guide: We need wood, Captain, and we have some. Collect it
+(The ship gets repaired a little more and the player advances to level one.)
+Molly: Nice Captain, the ship is starting to get back into shape!
+Molly: Match more of the same wood to finish rebuilding the ship.
+(The player matches 8 pieces of wood into a pile of wood.)
+(The player repairs ''the salvaged hulk level 1'' and levels up to level 2.)
+Molly: Good! It may not be much, but it'll get us off this rock
+Guide: Tap the sail button to set sail.
+(The player departs from Diablo Atoll and sets sail for a new island.)
+Guide: Drag and hold anywhere to move. Sail to the next island.
+(The player arrives at the island.)
+Pirate: I can't believe it! It's an honor to meet ye!
+Pirate: Can i join yer crew?
+Guide: Hire him as a crew member.
+(The player clicks the ''HIRE'' button.)
+Molly: Active crew members will be aboard the ship.
+Guide: Tap the tree to gather wood.
+(The player taps on the tree.)
+Guide: Your new crew member will do the gathering.
+Molly: Gather from trees and upgrade the ship.
+(The player gathers 9 wood from the trees and upgrades ''Raft level 2''.)
+(The player levels up to level 3.)
+Molly: Wow, Captain! The ship is looking pretty smart now.
+Molly: Now we can equip a weapon...
+Molly: We might be able to find one on the next island.
+Guide: Tap the sail button to set sail.
+(The player departs from Wet Nose and sets sail for the next island.)
+Guide: Sail to the next island to look for a weapon.
+(The player arrives at the next island.)
+Nick Silvertooth: Greetin's Captain, i heard there was a shipwreck nearby--looks like ye've sailed it here!
+Nick Silvertooth: Ye'll need to go armed in these waters. Take me old mortar!
+(The guide locates the quipment square, the bottom right square on the 3x3 ship.)
+Molly: This slot is for equipment.
+Guide: Drag this mortar to the slot to eqiup it.
+Molly: This green icon indicates the weapon is ready to use
+Nick Silvertooth: That's more like it! Now ye best be gettin' a map.
+Nick Silvertooth: One of the ships nearby should have one.
+Nick Silvertooth: Now yer ship's got a gun, ye can take what ye need--the pirate way!
+(The game highlights the sail button.)
+Guide: It's time for battle, Captain!
+(The player departs from Sea Dog's Maroonage to defeat the nearby ships.)
+Guide: Position the ship's side toward the enemy to fire the gun.
+(The player defeats 3 ships, the third one dropping the map.)
+Guide: You got a map! Open it to travel to other locations.
+(The game highlights the map button.)
+(The game highlights the ''QUICK TRAVEL'' button, and the player proceeds to press it.)
+(The player obtains 2 rope and 6 wood for the ship.)
+(The game instructs the player to ''Sail for resources''.)
+Molly: Captain look! Another island ahead.
+Molly: Sail there to get more materials for our ship.
+(The player departs from Long Paradise towards the island ahead.)
+(On the way, the player runs into 2 ships, each containing a box of resources, conatining 2 wood and 2 rope.)
+Molly: Captain, hire this person to help with merging.
+Guide: Tap and hire him.
+(The player hires ''Barnacle Debbie'', who is somehow 212 years old.)
+(On the island, the player finds a chest containing earrings and a fish. They also get the resources from the island, 12 wood, and 5 rope.)
+(The game yet again instructs the player to ''Sail for resources''.)
+Molly: Another island on the horizon.
+Molly: Sail there for more materials for our ship.
+(The player departs from Mantis Shrimp Cliffs to sail to the island ahead, on the way the player fights with a ship with cannons. The player is victorious and nabs a chest with earrings from them.)
+(The Player arrives at Ambergris Puddle.)
+Molly: Look captain, a weapon component, we can use it to upgrade the mortar.
+Guide: Tap the mortar.
+Guide: Add the component.
+Guide: Complete the order Captain.
+Guide: Confirm the upgrade.
+(The player upgrades the common mortar.)
+Molly: Oh nice! The mortar does more damage now.
+Components are inportant--they're needed to strengthen the ship's equipment.
+Harvest more materials and keep upgrading the ship.
+(The player finds a chest containing an egg, a broken compass and a fuse.)
+(The player uses the fuse to upgrade the mortar. (Optional))
+(The player collects the resources and upgrades ''Shapely Sloop level 3''.)
+(The player levels up to level 4.)
+Molly: Great progress, Captain. Everytime we upgrade our ship we unlock new areas.
+(The map button gets highlighted.)
+Guide: Open the world map to unlock new adventures.
+(The player taps the map button.)
+(The game highlights a big chuck on the right side of the map.)
+Guide: Tap the new area to unlock it
+(New area discovered!)
+Molly: Let's set sail now to visit the new islands.
+
+(This is the almost finished version, my legs are extremely sore so i'm taking a break, full version soon.)
+
+
 All archived info:
 
 App information: 
