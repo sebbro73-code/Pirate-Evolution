@@ -97,7 +97,7 @@ Guide: Tap the new area to unlock it
 (New area discovered!)
 Molly: Let's set sail now to visit the new islands.
 
-(This is the almost finished version, my legs are extremely sore so i'm taking a break, full version soon.)
+(This is the almost finished version, my legs are extremely sore so i'm taking a break, full version soon. Also, all grammatical errors are in version 0.4.0, this is copied directly from the game itself.)
 
 
 All archived info:
